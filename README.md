@@ -12,7 +12,7 @@ To gain key access to the metal and wood shops, you must first pass safety test.
 If for any reason you find or leave a piece of equipment inoperable, please communicate this with staff. The more we know about downed equipment, the faster we can get it working again. If no one is around, at the very least, please leave a note.
 
 ## Work Areas
-3D Print Lab
+[3D Print Lab](./3d-print-lab)
 
 Electronics Lab
 
