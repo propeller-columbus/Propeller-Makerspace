@@ -11,20 +11,32 @@ To gain key access to the metal and wood shops, you must first pass safety test.
 ## Communication on Equipment Status
 If for any reason you find or leave a piece of equipment inoperable, please communicate this with staff. The more we know about downed equipment, the faster we can get it working again. If no one is around, at the very least, please leave a note.
 
-## Work Areas
+## Work Area Amenities
 <details>
 <summary>
 3D Print Lab
 </summary>
-<ul>
-<li>Printers </li>
   <ul>
-  <li>Bambu P1S and X1C</li>
-  <li>Ender Max</li>
-  <li>Ender 3 (v1/v2)</li>
-  </ul>
+  <li>Printers </li>
+    <ul>
+    <li>Bambu P1S and X1C</li>
+    <li>Ender Max</li>
+    <li>Ender 3 (v1/v2)</li>
+    </ul>
   <li><a href="./3d-print-lab">Getting Started</a></li>
-</ul>
+  </ul>
+</details>
+
+<details>
+<summary>Crafting Room</summary>
+  <ul>
+  <li>CO² laser engraver</li>
+  <li>Cricut (vinyl cutter)</li>
+  <li>Sewing machines</li>
+  <li>Laminator</li>
+  <li>Paper cutter</li>
+  <li>Drafting table</li>
+  </ul>
 </details>
 
 <details>
