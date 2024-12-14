@@ -1,6 +1,5 @@
-title: Minimal theme
+title: Propeller Reference Docs
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Reference documentation to aid members of Propeller Makerspace
+show_downloads: false
 theme: jekyll-theme-minimal
