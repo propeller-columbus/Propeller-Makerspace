@@ -53,3 +53,27 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/atkinson-hyperlegible/AtkinsonHyperlegible-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/atkinson-hyperlegible/AtkinsonHyperlegible-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/atkinson-hyperlegible/AtkinsonHyperlegible-BoldItalic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Atkinson Hyperlegible';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/atkinson-hyperlegible/AtkinsonHyperlegible-Italic.woff2') format('woff2');
+}
