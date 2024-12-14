@@ -91,6 +91,7 @@ Wood shop
 <li>Bauer Jigsaw</li>
 </ul>
 </details>
+<br>
 
 ## Equipment Instruction
 Without proper instruction, please do not operate any equipment you are unfamiliar with.  Use these guides for reference only.
